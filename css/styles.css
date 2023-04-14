@@ -1,0 +1,191 @@
+.top {
+    background-color: rgb(176, 196, 238);
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.mid {
+    margin: 100px, 0;
+}
+
+.left-mountain {
+    position: absolute;
+    left: 0px;
+    height: auto;
+}
+
+.right-mountain {
+    position: absolute;
+    right: 0px;
+    height: auto;
+}
+
+.mid-left-mountain {
+    position: absolute;
+    left: 150px;
+    height: auto;
+
+}
+
+.mid-right-mountain {
+    position: absolute;
+    right: 150px;
+    height: auto;
+
+}
+
+.sun {
+    position: absolute;
+    width: 10%;
+    right: 50%;
+    top: 10px;
+    height: auto;
+
+}
+
+h1 {
+    color: #104545;
+    font-size: 50px;
+    font-family: 'Merriweather', cursive;
+    text-align: center;
+    margin-top: 50px auto 0px auto;
+    padding: 40px;
+    text-align: center;
+}
+
+.head {
+    font-size: 1.5rem;
+    color: darkslategray;
+    font-family: 'Merriweather', cursive;
+    margin: 0px;
+}
+
+h2 {
+    color: #104545;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    padding: 10px;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+}
+
+body {
+    color: #40514E;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    top: 50px;
+    float: inline-end;
+    height: auto;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    height: auto;
+}
+
+.mid-cloud {
+    position: absolute;
+    left: 300px;
+    top: 300px;
+    height: auto;
+}
+
+.right-cloud {
+    position: absolute;
+    right: 300px;
+    top: 300px;
+    height: auto;
+}
+
+.topright-cloud {
+    position: absolute;
+    right: 100px;
+    top: 200px;
+    height: auto;
+}
+
+.topleft-cloud {
+    position: absolute;
+    left: 100px;
+    top: 200px;
+    height: auto;
+}
+
+.top1left-cloud {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    height: auto;
+}
+
+.top1right-cloud {
+    position: absolute;
+    right: 50px;
+    top: 50px;
+    height: auto;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.right-birds {
+    position: absolute;
+    width: 20%;
+    right: 5%;
+    top: 5%;
+    height: auto;
+}
+
+.left-birds {
+    position: absolute;
+    width: 20%;
+    left: 5%;
+    top: 5%;
+    height: auto;
+}
+
+.my-image {
+    width: 10%;
+    height: auto;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+    padding: 0px;
+}
+
+.web {
+    width: 10%;
+    height: auto;
+}
+
+.blockchain {
+    width: 10%;
+    height: auto;
+}
+
+.PROG {
+    width: 10%;
+    height: auto;
+}
+
+.skill-row {
+    margin: auto;
+    line-height: 2;
+}
